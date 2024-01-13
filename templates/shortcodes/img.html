@@ -1,0 +1,6 @@
+<div {% if class %}class="{{class}}"{% endif %}>
+    {% if href %}<a href="{{href}}" target="_blank">{% endif %}
+    <img src="{{get_url(path=id)}}" {% if alt %}alt="{{alt}}"{% endif %} width="100%">
+    {% if href %}</a>{% endif %}
+  {% if caption %}<div class="caption">{{caption}}</div>{% endif %}
+</div>

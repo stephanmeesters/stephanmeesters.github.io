@@ -1,9 +1,12 @@
 +++
+title="Software development"
 +++
 
 ## DENS / MIND 
 
 Depth Electrode Navigator Software (DENS) and Multi-modal Imaging for Neurological Diagnostics (MIND) are CE-certified software packages for medical data visualization and pre-surgical evaluation in the neuro domain.
+
+> Project type: Freelance
 
 > Role: software developer/architect
 
@@ -13,9 +16,15 @@ Depth Electrode Navigator Software (DENS) and Multi-modal Imaging for Neurologic
 
 > Status: released
 
+{{ img(id="img/mind.jpeg", alt="Multi-modal Imaging for Neurological Diagnostics (MIND)") }}
+
+---
+
 ## Drawball.io
 
 [Drawball.io](https://drawball.io) is a collaborative drawing platform, which is a reimagining of the original Drawball "the world's biggest graffiti board" (www.drawball.com)
+
+> Project type: Hobby
 
 > Role: back-end developer (co-owner)
 
@@ -23,39 +32,4 @@ Depth Electrode Navigator Software (DENS) and Multi-modal Imaging for Neurologic
 
 > Status: in active development
 
-
-<!-- > *"Useless blockquote"* -->
-<!---->
-<!-- ### Blog Posts -->
-<!---->
-<!-- Explore our insightful blog posts on a variety of topics: -->
-<!---->
-<!-- - 🥣 [Overview Post](./blog/overview-post) -->
-<!-- - 🥣 [Overview Post But in French](./fr/blog/overview-post) -->
-<!-- - 🈚 [Language Tests](./blog/language-tests) -->
-<!-- - 🔥 [Very Very Very Long Title And Very Very Very Short Content](./blog/very-very-very-long-title-and-very-very-very-short-content) -->
-<!-- - 📺 [Post Example With Headings And TOC](./blog/post-example-with-headings-and-toc) -->
-<!---->
-<!-- ## Tags -->
-<!---->
-<!-- Browse our posts by tags: -->
-<!---->
-<!-- - [example](./tags/example) -->
-<!---->
-<!-- ## Another List -->
-<!---->
-<!-- Discover additional content: -->
-<!---->
-<!-- - With Subitems -->
-<!--   - With Subsubitems -->
-<!--   - [Example Page](./about) -->
-<!-- - this list is just the content of `content/_index.md`, the tests are shamelessly stolen from [no style, please!](https://www.getzola.org/themes/no-style-please/) -->
-<!---->
-<!-- ## Online Presence -->
-<!---->
-<!-- Stay connected with us: -->
-<!---->
-<!-- - Email: [jgll6dij6@mozmail.com](mailto:jgll6dij6@mozmail.com) -->
-<!-- - Code Repositories: [Speyll@GitHub](https://github.com/Speyll) -->
-<!-- - @Speyll anywhere else. -->
-<!---->
+{{ img(id="img/drawball.png", alt="Drawball.io" href="https://www.drawball.io") }}
