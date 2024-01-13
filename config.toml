@@ -4,7 +4,6 @@ default_language = "en"
 theme = "amemone"
 compile_sass = false
 build_search_index = true
-default_theme = "dark"
 
 taxonomies = [
     {name = "tags", feed = true},
@@ -14,3 +13,14 @@ taxonomies = [
 highlight_code = true
 
 [extra]
+favicon = "favicon.ico"
+image = ""
+
+default_theme = "dark"
+list_pages = false
+twitter_card = true
+
+header_nav = [
+  { url = "/", name_en = "/home/", name_fr = "/accueil/" },
+  { url = "/software-development", name_en = "/software/" },
+]
