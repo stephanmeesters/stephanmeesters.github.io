@@ -14,7 +14,7 @@ title="Software development"
 
 > Developed for: [3mensio](https://3mensio.com/)
 
-> Technologies used: C#, DirectX-11, Compute Shaders, Typescript
+> Technologies used: C#, DirectX 11, Compute Shaders, Typescript
 
 > Development team size: ±15
 
@@ -53,7 +53,7 @@ Depth Electrode Navigator Software (DENS) and Multi-modal Imaging for Neurologic
 
 > Role: back-end developer (co-owner)
 
-> Technologies used: C++, Boost (with WebSockets), NodeJS, Nginx, Typescript
+> Technologies used: C++, Boost (with WebSockets), NodeJS, Nginx, Typescript, Docker
 
 > Development team size: 2
 
