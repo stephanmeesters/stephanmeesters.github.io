@@ -1,0 +1,30 @@
+<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+<script>
+    window.RufflePlayer = window.RufflePlayer || {};
+    window.addEventListener("load", (event) => {
+        const ruffle = window.RufflePlayer.newest();
+        const player = ruffle.createPlayer();
+        const container = document.createElement("div");
+        container.style.cssText = `
+            position:absolute;
+            top: 150px;
+left: calc(0.5 * (100vw - {{width}}));
+width: {{width}};
+height: {{height}};
+            z-index:100;
+        `;
+        document.body.appendChild(container);
+        container.appendChild(player);
+        player.load("{{get_url(path=path)}}");
+        player.style.width = "100%"; 
+player.style.height = "100%";
+    });
+</script>
+
+<!-- <div id="container" style=" -->
+<!--     display:block; -->
+<!--     position:absolute; -->
+<!--     top: 350px; -->
+<!--     width: 100vw; -->
+<!--     "> -->
+<!-- </div> -->

@@ -12,6 +12,11 @@ taxonomies = [
 [markdown]
 highlight_code = true
 
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
 [extra]
 favicon = "favicon.ico"
 image = ""
@@ -23,4 +28,5 @@ twitter_card = true
 header_nav = [
   { url = "/", name_en = "/home/", name_fr = "/accueil/" },
   { url = "/software-development", name_en = "/software/" },
+  { url = "/games", name_en = "/games/" },
 ]
