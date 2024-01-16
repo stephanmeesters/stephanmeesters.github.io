@@ -18,9 +18,12 @@ title="Software development"
 
 > Development team size: ±15
 
-> Time period: 2022-Present
+> Time period: 2022-present
 
 {{ img(id="img/3mensio.png", alt="3mensio Workstation" href="https://www.3mensio.com/") }}
+
+
+
 
 ## DENS / MIND {#dens-mind}
 
@@ -36,14 +39,15 @@ Depth Electrode Navigator Software (DENS) and Multi-modal Imaging for Neurologic
 
 > Development team size: 1
 
-> Time period: 2017-Present
+> Time period: 2017-present
 
 [Scientific paper](https://rdcu.be/cClyR)
 
 {{ img(id="img/mind.jpeg", alt="Multi-modal Imaging for Neurological Diagnostics (MIND)") }}
 
 
----
+
+
 
 ## Drawball.io
 
@@ -61,7 +65,10 @@ Depth Electrode Navigator Software (DENS) and Multi-modal Imaging for Neurologic
 
 {{ img(id="img/drawball.png", alt="Drawball.io" href="https://www.drawball.io") }}
 
----
+
+
+
+
 
 ## Medical Viewer
 
@@ -77,7 +84,9 @@ A medical visualization app written in ~40 hours as part of this software progra
 
 {{ img(id="img/medicalviewer.png", alt="Medical Viewer" href="https://github.com/stephanmeesters/MedicalViewer")}}
 
----
+
+
+
 
 ## Diffusion Imaging in Python
 
