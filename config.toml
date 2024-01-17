@@ -28,7 +28,8 @@ list_pages = false
 twitter_card = true
 
 header_nav = [
-  { url = "/", name_en = "/home/", name_fr = "/accueil/" },
+  { url = "/", name_en = "/home/" },
   { url = "/software-development", name_en = "/software/" },
   { url = "/games", name_en = "/games/" },
+  { url = "/art", name_en = "/art/" },
 ]
