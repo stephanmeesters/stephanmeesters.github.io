@@ -32,4 +32,5 @@ header_nav = [
   { url = "/software-development", name_en = "/software/" },
   { url = "/games", name_en = "/games/" },
   { url = "/art", name_en = "/art/" },
+  { url = "/photo", name_en = "/photo/" },
 ]
