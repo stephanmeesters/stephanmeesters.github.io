@@ -105,3 +105,42 @@ I contributed several modules to the project including an algorithm for contextu
 [Poster](../pdf/FBC_poster.pdf)
 
 {{ img(id="img/dipy.png", alt="Fiber to Bundle Coherence measures" href="https://docs.dipy.org/stable/examples_built/contextual_enhancement/fiber_to_bundle_coherence.html#sphx-glr-examples-built-contextual-enhancement-fiber-to-bundle-coherence-py")}}
+
+
+## Envato author
+
+Development of apps for sale on the Envato marketplace (now defunct) and writer of development articles on Envato Tuts+.
+
+> Project basis: independent author 
+
+> Technologies used: Adobe Flash, ActionScript 3
+
+> Time period: 2010-2015
+
+[Marketplace](https://themeforest.net/user/smeesters)
+
+[Tuts+](https://tutsplus.com/authors/stephan-meesters)
+
+{{ img(id="img/envato.png", alt="Envato Marketplace" href="https://themeforest.net/user/smeesters")}}
+
+
+## Educational Games
+
+Development of educational games for children. Notably the Big English project developed for Pearson.
+Interactive activities and games for extra practice were distributed on CD-ROM.
+
+> Project basis: freelance
+
+> Developed for: Estação Gráfica / Pearson
+
+> Technologies used: Adobe Flash, ActionScript 3
+
+> Time period: 2011-2013 
+
+[Estação Gráfica](https://www.facebook.com/egraficasl/)
+
+[Big English](http://www.pearsonlongman.com/bigenglish/)
+
+[Playable demo (requires Flash Player)](http://www.pearsonlongman.com/bigenglish/cdrom/index.html?WT.ac=BIG_student_CDROM_demo)
+
+{{ img(id="img/big_english.png", alt="Big English")}}
